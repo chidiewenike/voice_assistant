@@ -12,8 +12,8 @@ n_nodes_hl4 = 1500
 # number of outputs
 n_classes = len(lexicon)
 
-# batch sizes (currently practicing Stochastic Gradient Descent)
-batch_size = 1
+# batch sizes 
+batch_size = 100
 
 # number of passes forward and back
 hm_epochs = 3
